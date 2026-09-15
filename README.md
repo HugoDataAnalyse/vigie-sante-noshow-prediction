@@ -7,10 +7,4 @@ Chaque "No-Show" est plus qu'une simple case vide dans un agenda : c’est un pa
 
 1️ Ingénierie & Hygiène des Données : Nettoyage rigoureux sous Python (Pandas/Numpy) et création de features critiques comme le Lead Time (temps d'attente entre la prise de RDV et la consultation).
 
-2️ Inférence Statistique & Test A/B : Utilisation de la Régression Logistique pour calculer les Odds Ratios. L’enjeu ? Valider scientifiquement si le SMS est un réel levier de présence ou si des variables de confusion (âge, antécédents) biaisent les résultats. Paramétrage d’un protocole de Test A/B (Power Analysis) pour optimiser les futurs rappels.*
-
- Stack Technique :
-
-Data Science : Python (Statsmodels, Seaborn, Scipy)
-
- Conclusion : Ce projet démontre qu'avec une donnée propre et une méthodologie statistique rigoureuse, nous pouvons non seulement optimiser les revenus des établissements de santé, mais surtout améliorer l'accès aux soins pour tous.
+2️ Inférence Statistique & Test A/B : Utilisation de la Régression Logistique pour calculer les Odds Ratios. L’enjeu ? Valider scientifiquement si le SMS est un réel levier de présence ou si des variables de confusion (âge, antécédents) biaisent les résultats. Paramétrage d’un protocole de Test A/B (Power Analysis) pour optimiser les futurs rappels.
